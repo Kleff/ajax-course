@@ -1,0 +1,10 @@
+.user {
+  display: flex;
+  border: 1px solid #333333;
+  width: 50%;
+  text-transform: uppercase;
+}
+
+.user ul li {
+  list-style: none;
+}
